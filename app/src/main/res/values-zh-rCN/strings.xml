@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="navigation_drawer_open">打开抽屉式导航栏</string>
+    <string name="about_affiliation">隶属于</string>
+    <string name="version_number">版本 v%s</string>
+    <string name="welcome">欢迎</string>
+    <string name="about_author_contributors">及贡献者们.</string>
+    <string name="navigation_drawer_close">关闭导航抽屉</string>
 </resources>
